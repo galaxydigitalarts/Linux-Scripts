@@ -1,0 +1,3 @@
+unzip FFAudioChannelLayouts.xml.zip
+
+mv Desktop\FFAudioChannelLayouts.xml.zip\TRANSFER AudioChannelLayoutXML \Applications\
